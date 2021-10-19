@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-parallels-process",
+  "version": "1.0.0",
+  "description": "nodejs-parallels-process",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "parallels",
+    "process"
+  ],
+  "author": "iv",
+  "license": "ISC"
+}
